@@ -1,0 +1,10 @@
+D:\vs12Projects\New folder\LicensekeyGenerator\LicensekeyGenerator\obj\Debug\LicensekeyGenerator.csprojAssemblyReference.cache
+D:\vs12Projects\New folder\LicensekeyGenerator\LicensekeyGenerator\obj\Debug\LicensekeyGenerator.Properties.Resources.resources
+D:\vs12Projects\New folder\LicensekeyGenerator\LicensekeyGenerator\obj\Debug\LicensekeyGenerator.csproj.GenerateResource.cache
+D:\vs12Projects\New folder\LicensekeyGenerator\LicensekeyGenerator\obj\Debug\LicensekeyGenerator.csproj.CoreCompileInputs.cache
+D:\vs12Projects\New folder\LicensekeyGenerator\LicensekeyGenerator\obj\Debug\LicensekeyGenerator.Form1.resources
+D:\vs12Projects\New folder\LicensekeyGenerator\LicensekeyGenerator\bin\Debug\LicensekeyGenerator.exe.config
+D:\vs12Projects\New folder\LicensekeyGenerator\LicensekeyGenerator\bin\Debug\LicensekeyGenerator.exe
+D:\vs12Projects\New folder\LicensekeyGenerator\LicensekeyGenerator\bin\Debug\LicensekeyGenerator.pdb
+D:\vs12Projects\New folder\LicensekeyGenerator\LicensekeyGenerator\obj\Debug\LicensekeyGenerator.exe
+D:\vs12Projects\New folder\LicensekeyGenerator\LicensekeyGenerator\obj\Debug\LicensekeyGenerator.pdb
